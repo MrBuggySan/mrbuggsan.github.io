@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+It's me. A simple human trying to learn more about code and how we can use it to create useful things.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andreibuiza@gmail.com](mailto:andreibuiza@gmail.com)
