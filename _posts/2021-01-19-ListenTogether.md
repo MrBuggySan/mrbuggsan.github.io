@@ -3,7 +3,6 @@ published: true
 ---
 ## ListenTogether
 
-### Background
 March 2020 Covid hit us. Our day to day lives changed, our routines simplified to activities at home. With more free time on my hands, I began to think of a coding challenge for myself. I've been curious about [React Native](https://reactnative.dev/) - I'm always onboard with simplfying development, and having to code once and deploy on Android and iOS is too much enticing for me. 
 
 After some brainstorming I decided to go with an app which would enable Spotify users to listen together and also chat. 
