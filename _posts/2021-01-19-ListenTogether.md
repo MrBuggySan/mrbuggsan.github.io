@@ -29,3 +29,4 @@ Here's a brief overview of the App's architecture:
 As you can see I'm using Firebase's [Realtime Database](https://firebase.google.com/docs/database/) as my backend DB and [Cloud Functions](https://firebase.google.com/docs/functions) for remote logic. It is my first time using Firebase, and I have to say I'm quite impressed with the available features. For any project that is starting out, trying to get their MVP - Firebase is definitely a smart choice.
 
 That's enough for today, I'll share more on the details of my app in the future. Good evening!
+.
