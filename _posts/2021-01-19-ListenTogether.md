@@ -23,7 +23,7 @@ Since I'm using React Native I started to explore for tools which can help devel
 As for other dependencies I found [react-native-spotify-remote](https://github.com/cjam/react-native-spotify-remote/issues) by [cjam](https://github.com/cjam). Huge props to him for starting this! It is a react native wrapper around the Spotify Mobile SDKs. He even gives an example project to test out the capabilities. 
 
 Here's a brief overview of the App's architecture:
-![ListenTogether_Architecture.png]({{site.baseurl}}/_posts/ListenTogether_Architecture.png)
+![](https://raw.githubusercontent.com/MrBuggySan/mrbuggysan.github.io/master/_posts/ListenTogether_Architecture.png)
 
 
 As you can see I'm using Firebase's [Realtime Database](https://firebase.google.com/docs/database/) as my backend DB and [Cloud Functions](https://firebase.google.com/docs/functions) for remote logic. It is my first time using Firebase, and I have to say I'm quite impressed with the available features. For any project that is starting out, trying to get their MVP - Firebase is definitely a smart choice.
